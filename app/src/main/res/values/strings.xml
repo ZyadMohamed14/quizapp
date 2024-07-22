@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">G4DQuizApp</string>
+    <!--    <string-array name="items">-->
+    <!--        <item>please select</item>-->
+    <!--        <item>cairo</item>-->
+    <!--        <item>damascus</item>-->
+    <!--        <item>baghdad</item>-->
+    <!--        <item>ws</item>-->
+    <!--        <item>toronto</item>-->
+    <!--        <item>london</item>-->
+    <!--        <item>khartoum</item>-->
+    <!--        <item>paris</item>-->
+    <!--    </string-array>-->
+</resources>
